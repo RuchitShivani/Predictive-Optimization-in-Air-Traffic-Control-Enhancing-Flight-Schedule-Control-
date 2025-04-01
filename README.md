@@ -1,5 +1,5 @@
 # Predictive-Optimization-in-Air-Traffic-Control-Enhancing-Flight-Schedule-Control-
-Following is the code 
+Following are the screenshots of the code 
 ![image](https://github.com/user-attachments/assets/4c3eb1be-670a-4bd2-92e1-eee9d99b8693)
 ![image](https://github.com/user-attachments/assets/81389a9f-d5fa-4451-893a-98fb8ddff15c)
 ![image](https://github.com/user-attachments/assets/2a2dc0b8-0cdc-4e05-8da9-2de8ab3d07ea)
